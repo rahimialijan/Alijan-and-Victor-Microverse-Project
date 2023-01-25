@@ -1,3 +1,10 @@
+#main {
+  margin: 20px 8px;
+  padding: 25px;
+  border-radius: 10px;
+  background: rgb(240, 240, 240);
+}
+
 #image{
     max-width: 100%;
     height: auto;
@@ -19,6 +26,24 @@
     text-align: center;
     color: #333;
     margin: 0;
+  }
+
+  ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
+
+  blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
   }
   
     
